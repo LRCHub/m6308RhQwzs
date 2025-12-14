@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Go Our Way！",
+  "base_artist": "虹ヶ咲学園スクールアイドル同好会",
+  "createdAt": "2025-12-14T06:07:21.964525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way??? (23 Skidoo UK Remix)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/01_Do_You_Wanna_Go_Our_Way__(23_Skidoo_UK_Remix)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way - Nextmen UK Mix",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/02_Do_You_Wanna_Go_Our_Way_-_Nextmen_UK_Mix_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way (Nexttmen UK Remix)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/03_Do_You_Wanna_Go_Our_Way_(Nexttmen_UK_Remix)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way???",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/04_Do_You_Wanna_Go_Our_Way_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way??? (23 Skidoo UK Remix)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/05_Do_You_Wanna_Go_Our_Way__(23_Skidoo_UK_Remix)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way (Live)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/06_Do_You_Wanna_Go_Our_Way_(Live)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Our Way!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": true,
+      "path": "select/07_Go_Our_Way!_虹ヶ咲学園スクールアイドル同好会.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way (23 Skidoo UK Remix)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/08_Do_You_Wanna_Go_Our_Way_(23_Skidoo_UK_Remix)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Black Steel In the Hour / Do You Wanna Go Our Way (Live)",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/09_Black_Steel_In_the_Hour___Do_You_Wanna_Go_Our_Way_(Live)_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Our Way!",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": false,
+      "path": "select/10_Go_Our_Way!_Nijigasaki_High_School_Idol_Club.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way??? (Nextmen UK mix)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/11_Do_You_Wanna_Go_Our_Way__(Nextmen_UK_mix)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Something's Gonna Go Our Way",
+      "artist": "The 502s",
+      "has_synced": false,
+      "path": "select/12_Something's_Gonna_Go_Our_Way_The_502s.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way??? (live)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/13_Do_You_Wanna_Go_Our_Way__(live)_Public_Enemy.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go Our Way！",
+      "artist": "Nijigasaki High School Idol Club",
+      "has_synced": true,
+      "path": "select/14_Go_Our_Way!_Nijigasaki_High_School_Idol_Club.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do You Wanna Go Our Way",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/15_Do_You_Wanna_Go_Our_Way_Public_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go Our Way!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": false,
+      "path": "select/pl_01_Go_Our_Way!_虹ヶ咲学園スクールアイドル同好会.txt"
+    }
+  ]
+}
